@@ -8,10 +8,5 @@ public class Teste{
 			for (int a = 1; a <= qtdeDeEspaco; a++)
 				System.out.print(" ");
 		}
-		
-		for (int j = 1; j <= i; j++){
-			System.out.print("*");
-		}
-		System.out.println();
 	}		
 }
